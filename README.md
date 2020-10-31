@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on my personal website, that should be live soon. It's being developed gradually with **Next.js** and **React**.
+
+📫 If you want to get in touch with me, you can reach me on [**LinkedIn**](https://www.linkedin.com/in/andre-ferraz-developer/) or via [**email**](andre.d.f.182@hotmail.com)
 <!--
 **andreferraz/andreferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
