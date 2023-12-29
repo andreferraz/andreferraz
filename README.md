@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hey there! 👋
 
-🔭 I’m currently working on my personal website ([andreferraz.me](https://www.andreferraz.me)), that's being developed gradually with **Next.js** and **React**.
+My name is André Ferraz, I'm a software developer with 9+ years of experience building websites for multinational brands, and passionate about game development.
 
-📫 If you want to get in touch with me, you can reach me on [**LinkedIn**](https://www.linkedin.com/in/andre-ferraz-developer/) or via [**email**](andre.d.f.182@hotmail.com)
+🔭 I'm currently working on an open-source project named [Faber CLI](https://github.com/faberjs/faber-cli), which is a CLI that helps you create and use pre-defined boilerplates.
+
+🌱 I'm currently learning more about automated tests with Jest and other tools.
+
+📫 If you want to get in touch with me, you can reach me on [**LinkedIn**](https://www.linkedin.com/in/andreferraz-dev/) or via [**email**](hello@andreferraz.dev)
 <!--
 **andreferraz/andreferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
