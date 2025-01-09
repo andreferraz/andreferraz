@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-My name is André Ferraz, I'm a software developer with 9+ years of experience building websites for multinational brands, and passionate about game development.
+My name is André Ferraz, I'm a software developer with over a decade of experience building websites for multinational brands, and passionate about game development.
 
 🔭 I'm currently working on an open-source project named [Faber CLI](https://github.com/faberjs/faber-cli), which is a CLI that helps you create and use pre-defined boilerplates.
 
